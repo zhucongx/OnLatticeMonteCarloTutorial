@@ -3,9 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - pip
+  - nodejs
   - jupyter
   - jupyterlab
   - numpy
   - pandas
   - plotly
   - scipy
+  - seaborn
+  - tqdm
