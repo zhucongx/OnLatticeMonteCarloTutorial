@@ -2,7 +2,7 @@
 
 
 # 2D On-Lattice Monte Carlo Simulation Tutorial
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zhucongx/OnLatticeMonteCarloTutorial.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zhucongx/OnLatticeMonteCarloTutorial/HEAD)
 
 This tutorial demonstrates a 2D on-lattice Monte Carlo simulation for teaching purposes.
 
