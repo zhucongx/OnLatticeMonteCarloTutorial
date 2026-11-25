@@ -9,6 +9,8 @@ dependencies:
   - numpy
   - pandas
   - plotly
+  - ipywidgets
+  - anywidget
   - scipy
   - seaborn
   - tqdm
